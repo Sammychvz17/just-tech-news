@@ -1,3 +1,3 @@
-DROP DATABASE IF EXISTS nerd-news_db;
+DROP DATABASE IF EXISTS nerdNews_db;
 
-CREATE DATABASE nerd-news_db;
+CREATE DATABASE nerdNews_db;
