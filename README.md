@@ -1,1 +1,1 @@
-# just-tech-news
+#nerd_news
